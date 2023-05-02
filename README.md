@@ -1,2 +1,3 @@
 # latent_space_unicity
-Experiments regarding latent space unicity of DDIMs
+
+<img src="https://github.com/fmerizzi/latent_space_unicity/blob/main/images/VGGUNet%20vs%20Unet%20vs%20AttUNet.png" >
